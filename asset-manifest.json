@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pulseora/static/css/main.dcc0a495.css",
+    "main.js": "/pulseora/static/js/main.07f46e12.js",
+    "static/js/453.ed3810f9.chunk.js": "/pulseora/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/pulseora/index.html",
+    "main.dcc0a495.css.map": "/pulseora/static/css/main.dcc0a495.css.map",
+    "main.07f46e12.js.map": "/pulseora/static/js/main.07f46e12.js.map",
+    "453.ed3810f9.chunk.js.map": "/pulseora/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcc0a495.css",
+    "static/js/main.07f46e12.js"
+  ]
+}
