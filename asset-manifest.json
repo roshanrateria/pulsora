@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pulseora/gh-pages/static/css/main.dcc0a495.css",
-    "main.js": "/pulseora/gh-pages/static/js/main.2dc649ef.js",
-    "static/js/453.ed3810f9.chunk.js": "/pulseora/gh-pages/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/pulseora/gh-pages/index.html",
-    "main.dcc0a495.css.map": "/pulseora/gh-pages/static/css/main.dcc0a495.css.map",
-    "main.2dc649ef.js.map": "/pulseora/gh-pages/static/js/main.2dc649ef.js.map",
-    "453.ed3810f9.chunk.js.map": "/pulseora/gh-pages/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/pulsora/static/css/main.dcc0a495.css",
+    "main.js": "/pulsora/static/js/main.1c58ab61.js",
+    "static/js/453.ed3810f9.chunk.js": "/pulsora/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/pulsora/index.html",
+    "main.dcc0a495.css.map": "/pulsora/static/css/main.dcc0a495.css.map",
+    "main.1c58ab61.js.map": "/pulsora/static/js/main.1c58ab61.js.map",
+    "453.ed3810f9.chunk.js.map": "/pulsora/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dcc0a495.css",
-    "static/js/main.2dc649ef.js"
+    "static/js/main.1c58ab61.js"
   ]
 }
