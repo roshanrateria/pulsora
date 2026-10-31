@@ -1,17 +1,12 @@
 # pulsora
 
-## Overview
-
-No repository description is currently provided.
+A bundled React single-page web application with compiled assets and supporting project imagery.
 
 ## Technology
 
-HTML
+- HTML
+- React production bundle
 
-## Repository contents
+## Run
 
-`asset-manifest.json`, `favicon.ico`, `flowchart.jpeg`, `ieee.png`, `iem.png`, `index.html`, `logo192.png`, `logo512.png`, `loss.jpeg`, `manifest.json`, `robots.txt`, `static`, `uem.png`, `ui.jpeg`
-
-## Notes
-
-This README documents the repository using metadata and files visible in the repository. See the source tree for the current implementation.
+Serve the repository as a static site. The entry page is `index.html` and the compiled assets are under `static/`.
